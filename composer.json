@@ -1,0 +1,10 @@
+{
+    "name": "ghigio/moodle-webservice_soapfda",
+    "type": "moodle-webservice",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "soapfda"
+    }
+}
